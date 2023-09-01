@@ -2,12 +2,12 @@
   "basics": {
     "name": "Kai Matsusaka",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://media.licdn.com/dms/image/C5603AQFpLpCRCtdALw/profile-displayphoto-shrink_800_800/0/1645847867416?e=1698883200&v=beta&t=LGCGRYIuaFPzIw5aelZNgYY_9RBukYMMB76vMWxkDyE",
     "email": "kairem@hawaii.edu",
     "phone": "808-422-2222",
     "website": "https://kairemUH.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "X", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "the street", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kairemUH", "url": "http://github.com/kairemUH" },
       { "network": "linkedin", "username": "Kai-Matsusaka", "url": "http://linkedin.com/in/kai-matsusaka" }
