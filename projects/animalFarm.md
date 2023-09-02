@@ -14,7 +14,7 @@ summary: "A multifile toy program designed to learn about oop in C++."
 ---
 <img class="img-fluid" src="../img/animalFarm/animal_farm_full.jpg">  
 
-This project displays a farm consisting of many different types of animals, all objects that are inherited from a starting node.  
+This project displays a farm consisting of many different types of animals, all objects that inherit a starting node.  
 
 The source code is hosted publicly on github [here](https://github.com/kairemUH/ee205-Animal-Farm).  
 
