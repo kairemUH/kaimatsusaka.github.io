@@ -24,7 +24,7 @@ A smart question is one that is well formulated and shows a level of effort from
 
 Well, the author has made his hypothesis and tested it in two different programs in two different languages, one purely compiled (C++) and one kinda interpreted (Java).
 
-Now, he is asking the world why this is the case. It is not immediately obvious. There aren't any real explanations in the documentation of the languages or anywhere else on the internet, so this is a great question to ask. An expert in data structures and algorithms might be able to give good insight, or a more senior programmer could point out errors in his code. He explains himself and his findings, and then gives his thoughts, and finally, he gives detail to what it is he is inquiring or confused about.
+Now, he is asking the world why this is the case. It is not immediately obvious. There aren't any real explanations in the documentation of the languages or anywhere else on the internet, so this is a great question to ask. A more senior programmer might be able to give good insight, or could point out errors in his code. He explains himself and his findings, and then gives his thoughts, and finally, he gives detail to what it is he is inquiring or confused about.
 
 ```
 My first thought was that sorting brings the data into the cache, but that's silly because the array was just generated.
@@ -41,7 +41,7 @@ A dumb question could be many things. It could be that there is not enough detai
 
 The first thought one might have is, well, you use the + symbol? This is extremely rudimentary information about coding in general and could be learned in 5 seconds by a simple google search.
 
-But then he gives this code
+But then he gives this code.
 
 ```
 import java.util.*;
@@ -65,7 +65,7 @@ public class Test {
 }
 ```
 
-This code doesn't even compile. The asker says nothing else in the post, doesn't make it clear what he really wants and shows no real understanding of what he is asking. On inspection, it seems as though this was probably a homework prompt, and he just copied and pasted it with his non functioning code.
+The code doesn't even compile. The asker says nothing else in the post, doesn't make it clear what he really wants and shows no real understanding of what he is asking. On inspection, it seems as though this was probably a homework prompt, and he just copied and pasted it with his non functioning code.
 It can also be inferred that what he is really asking for is to take two numbers from a user console input and then add them together. He could have specified this, but didn't, and in doing so made no real effort to communicate what he was confused about. 
 Even if this was what he was after, he could have easily google searched this question and gotten many answers, but never made any attempt to do so.
 Questions like this show a poor ability to communicate a cohesive question, and in this instance, it can make the asker seem lazy.
