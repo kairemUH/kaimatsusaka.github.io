@@ -52,54 +52,50 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Engineering Department",
+      "position": "EE Grader II",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "January 2023",
+      "endDate": "May 2023",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Graded assignments for EE205, a course on Object Oriented Programming taught in C and C++",
+        "Altered homework assignments and projects to fix live issues and bugs",
+        "Suggested alterations for course to be implemented in 2024"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Wyss Farms, LLC",
+      "position": "Farm Hand",
+      "website": "",
+      "startDate": "Summers 2016",
+      "endDate": "2023",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted farmers with simple daily duties such as cleaning, upkeep, and organization of equipment",
+        "Assisted with cleaning, maintenance, upkeep, and minor construction of college rental homes"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ILH Canoe Paddling",
+      "website": "https://ilhsports.com/",
+      "position": "Pac-5 Assistant Coach",
+      "startDate": "November 2021",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Assisted in developing the skills of high school athletes into a team of strong and coordinated paddlers. Ran land and water drills, as well as being a Pac-5 team representative for the ILH race safety boat.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "ILH Kayaking",
+      "website": "https://ilhsports.com/",
+      "position": "Pac-5 Assistant Coach",
+      "startDate": "August 2021",
+      "endDate": "October 2021",
+      "summary": "Worked with new and experienced student kayakers to give them an opportunity to compete in highschool competitions. Ran land and water drills, and was a part of the ILH race timing crew during competitions.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
