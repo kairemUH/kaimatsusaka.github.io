@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://media.licdn.com/dms/image/C5603AQFpLpCRCtdALw/profile-displayphoto-shrink_800_800/0/1645847867416?e=1698883200&v=beta&t=LGCGRYIuaFPzIw5aelZNgYY_9RBukYMMB76vMWxkDyE",
     "email": "kairem@hawaii.edu",
-    "phone": "808-422-2222",
+    "phone": "",
     "website": "https://kairemUH.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -37,7 +37,16 @@
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Data Structures and Algorithms", "Object Oriented Programming (C & C++)", "Software Reverse Engineering", "Digital Systems & Computer Design (Verilog)", "NSA Codebreaker Challenge 2022", "Discrete Math", "Wireless Data Networks", "Linear Algebra and Machine Learning"
+      ]
+    },
+    {
+      "institution": "Hawaii Baptist Academy, Honolulu, HI",
+      "area": "",
+      "studyType": "High School Diploma (Highest Honors)",
+      "startDate": "2017-09-01",
+      "endDate": "2021-05-01",
+      "courses": [ "AP Computer Science (Java)"
       ]
     }
   ],
@@ -96,16 +105,22 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "University of Hawaii at Manoa Dean's List",
+      "date": "Spring 2022",
+      "awarder": "University of Hawaii",
+      "summary": "Awarded to students with a GPA of over 3.5 and over 12 credits."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "University of Hawaii at Manoa Merit Scholarship",
+      "date": "2021-2025",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and complete a rigorous high school curriculum with a minimum 3.8 GPA."
+    },
+    {
+      "title": "Hawaii Baptist Academy Semester Principal’s Honor Award x6",
+      "date": "2017-2021",
+      "awarder": "Hawaii Baptist Academy",
+      "summary": ""
     }
   ],
   "references": [
