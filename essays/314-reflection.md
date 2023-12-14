@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Reflecting on my Software Engineering Class"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-13
 published: true
