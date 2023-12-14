@@ -17,7 +17,7 @@ As a student and someone just beginning their journey as a developer, my softwar
 
 ## An Engineer's Toolbox
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/toolbox.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/toolbox.jpg">
 
 The most important thing I learned was that a large part of software engineering is not in the coding itself, but the organization you put into a project before even writing your first line of code. Understanding not just what tools are avaliable, but how and when to use them has been my biggest takeaway from this course.
 From version control systems like Git to integrated development environments (IDEs) and linters, ICS 314 has allowed me to navigate and leverage these tools to enhance efficiency and code quality.
