@@ -10,14 +10,18 @@ labels:
   - Professionalism
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/storytelling.jpg">
+
+\
+
 ## Good code tells a story
 
-A professor of mine once said that good code must tell a story. At the heart of this statement is a consistent and universal coding style. Smart variable names, well documented functions, comprehensible project documentation, and code with consistent and readable spacing; this allows the coder to tell a story and tell it well. 
+A professor of mine once said that good code must tell a story. At the heart of this statement is a consistent and universal coding style. Smart variable names, well documented functions, comprehensible project documentation, and code with consistent and readable spacing allow the coder to tell a story and tell it well. 
 
 ## Miscommunication === Problems
   
 My programming journey throughout high school and college has reinforced my belief that good communication is the cornerstone of an organized and efficient work environment. Supplemented with documentation, defining a coding style is the way to curate good communication in code.
-Almost any open-source project now commonly includes a "contribute.md" file on their pulbic facing git repositories. This file serves as an entry point for potential contributors, offering guidance on coding styles and documentation practices. Adding a contribute file is very low effort, and yet it has a tremendous impact on the integrity of the project as a whole.
+Almost any open-source project now commonly includes a "contribute.md" file on their public facing git repositories. This file serves as an entry point for potential contributors, offering guidance on coding styles and documentation practices. Adding a contribute file is very low effort, and yet it has a tremendous impact on the integrity of the project as a whole.
 Having a coding style is a necessity for collaborative development. Left to their own preferences, a group of developers will revert to their own unique practices and create code that is not cohesive. 
 The majority of code that one writes will be read, used, or refactored by many other programmers. If the reader is confused or struggles to derive the story the original writer was trying to communicate, then progress will slow. This is code debt, and it all could have been avoided with the simple premise of an integrated universal coding style.
 
