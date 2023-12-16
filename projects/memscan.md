@@ -20,4 +20,4 @@ This is a program that works on Linux systems. It functions by reading the maps 
 
 My app parses this file and displays the system's memory in more depth. It can be used to visualize how virtual memory and physical memory are related and how operating systems make memory mapping efficient.
 
-This project is published on GitHub [here](https://github.com/SRE-Nelson/sre_lab4_memscan-kairemUH).
+This project is published on GitHub [here](https://github.com/kairemUH/memscan).
