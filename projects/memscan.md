@@ -12,7 +12,7 @@ labels:
 summary: "A console based application that scans all legal memory addresses on the system."
 ---
 
-<img class="img-fluid" src="../img/memscan.jpg"> 
+<img class="img-fluid" src="../img/memscan.png"> 
 
 A wise man once said we live in a sea of illegal addresses. This program finds the islands of legal addresses scattered among that sea.  
 
