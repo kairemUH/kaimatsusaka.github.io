@@ -4,7 +4,7 @@ type: essay
 title: "Me"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-08
-published: true
+published: false
 labels:
   - My Introduction
   - Software Engineering
