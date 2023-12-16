@@ -22,4 +22,4 @@ The program works by taking an executable file as input through the command line
 
 Documentation on the PE file format can be found [here](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format) and [here](https://0xrick.github.io/win-internals/pe1/), which were necessary to recreate the functionality of readPE.
 
-The source code for my clone is published on github [here](https://github.com/SRE-Nelson/are_lab6_readpe-kairemUH).
+The source code for my clone is published on GitHub [here](https://github.com/SRE-Nelson/are_lab6_readpe-kairemUH).
