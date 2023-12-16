@@ -12,7 +12,7 @@ labels:
 summary: "A clone of the readpe program provided by pev which reads and displays information about PE files."
 ---
 
-<img class="img-fluid" src="../img/readPE.jpg"> 
+<img class="img-fluid" src="../img/readPE.png"> 
 
 This project is a clone of readPE, a free program that reads and displays information about PE files (windows executables).
 
