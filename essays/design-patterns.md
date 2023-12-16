@@ -16,11 +16,9 @@ Writing code is just as much an art as it is a science. Simply getting the right
 This is where design patterns come in. I like to think of software design patterns as a philosophy on how best to organize the application. There are so many different design patterns that it is reductive to classify them by anything more specific. A design pattern is also an agreement between all developers on a project on how the code will be seperated and organized.
 
 One of the most popular design patterns and one which I use often is the Model-View-ViewModel (MVVM) architecture. This architecture states that the view (UI), ViewModel (UI logic) and model (business logic and/or data) should be separate entities.
-This is seen in many applications, even if it isn't usually referred to by that name.
-For example, any web app that uses a separate backend and frontend usually loosely follows this architecture.
-However, the most common use of this architecture is in mobile applications. Whenever I develop an Android application, I strictly follow this design pattern to keep my code readable and easily traceable.
+This is seen in many applications, even if it isn't usually referred to by that name. However, the most common use of this architecture is in mobile applications. Whenever I develop an Android application, I strictly follow this design pattern to keep my code readable and easily traceable.  
 
-<img width="400px" class="rounded float-start pe-4" src="../img/MVVMSchema.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/MVVMSchema.png">  
 
 source: geeksforgeeks.org
 
