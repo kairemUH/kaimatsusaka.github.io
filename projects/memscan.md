@@ -12,6 +12,8 @@ labels:
 summary: "A console based application that scans all legal memory addresses on the system."
 ---
 
+<img class="img-fluid" src="../img/memscan.jpg"> 
+
 A wise man once said we live in a sea of illegal addresses. This program finds the islands of legal addresses scattered among that sea.  
 
 This is a program that works on Linux systems. It functions by reading the maps file, a generated file that has a neatly organized list of current memory addresses.
