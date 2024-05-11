@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Kai Matsusaka",
+    "label": "Student",
+    "picture": "https://media.licdn.com/dms/image/D5603AQEYpPfkXoISLQ/profile-displayphoto-shrink_800_800/0/1699865219308?e=1707955200&v=beta&t=MwrfKSotuZmOeKDHVrggsIphiqOn0vHVaJcyGrsIb_8",
+    "email": "kairem@hawaii.edu",
+    "phone": "",
+    "website": "https://kairemUH.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kairemUH", "url": "http://github.com/kairemUH" },
+      { "network": "linkedin", "username": "Kai-Matsusaka", "url": "http://linkedin.com/in/kai-matsusaka" }
+    ]
+  },
+  "interests": [
+    { "name": "Web Development" },
+    { "name": "Security" },
+    { "name": "Android Development" },
+    { "name": "IOS Development" },
+    { "name": "Reverse Engineering" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Bash", "SSH", "VIM", "VS Code", "CLion", "NetBeans", "Git", "Vivado", "Word", "Excel", "PowerPoint", "Wireshark", "Oracle VirtualBox", "Notepad++", "Ghidra", "gdb" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [ "Data Structures and Algorithms", "Object Oriented Programming (C & C++)", "Software Reverse Engineering", "Digital Systems & Computer Design (Verilog)", "NSA Codebreaker Challenge 2022", "Discrete Math", "Wireless Data Networks", "Linear Algebra and Machine Learning"
+      ]
+    },
+    {
+      "institution": "Hawaii Baptist Academy, Honolulu, HI",
+      "area": "",
+      "studyType": "High School Diploma (Highest Honors)",
+      "startDate": "2017-09-01",
+      "endDate": "2021-05-01",
+      "courses": [ "AP Computer Science (Java)"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Engineering Department",
+      "position": "EE Grader II",
+      "website": "https://ee.hawaii.edu/home/",
+      "startDate": "January 2023",
+      "endDate": "May 2023",
+      "summary": "",
+      "highlights": [
+        "Graded assignments for EE205, a course on Object Oriented Programming taught in C and C++",
+        "Altered homework assignments and projects to fix live issues and bugs",
+        "Suggested alterations for course to be implemented in 2024"
+      ]
+    },
+    {
+      "company": "Wyss Farms, LLC",
+      "position": "Farm Hand",
+      "website": "",
+      "startDate": "Summers 2016",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": [
+        "Assisted farmers with simple daily duties such as cleaning, upkeep, and organization of equipment",
+        "Assisted with cleaning, maintenance, upkeep, and minor construction of college rental homes"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ILH Canoe Paddling",
+      "website": "https://ilhsports.com/",
+      "position": "Pac-5 Assistant Coach",
+      "startDate": "November 2021",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Assisted in developing the skills of high school athletes into a team of strong and coordinated paddlers",
+        "Ran land and water drills, as well as being a Pac-5 team representative for the ILH race safety boat"
+      ]
+    },
+    {
+      "organization": "ILH Kayaking",
+      "website": "https://ilhsports.com/",
+      "position": "Pac-5 Assistant Coach",
+      "startDate": "August 2021",
+      "endDate": "October 2021",
+      "summary": "",
+      "highlights": [
+        "Worked with new and experienced student kayakers to give them an opportunity to compete in highschool competitions",
+        "Ran land and water drills, and was a part of the ILH race timing crew during competitions"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "University of Hawaii at Manoa Dean's List",
+      "date": "Spring 2022",
+      "awarder": "University of Hawaii",
+      "summary": "Awarded to students with a GPA of over 3.5 and over 12 credits."
+    },
+    {
+      "title": "University of Hawaii at Manoa Merit Scholarship",
+      "date": "2021-2025",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and complete a rigorous high school curriculum with a minimum 3.8 GPA."
+    },
+    {
+      "title": "Hawaii Baptist Academy Semester Principal’s Honor Award x6",
+      "date": "2017-2021",
+      "awarder": "Hawaii Baptist Academy",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
